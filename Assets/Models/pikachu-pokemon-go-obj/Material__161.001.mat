@@ -88,7 +88,7 @@ Material:
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _DrawingStrength: 0.2
+    - _DrawingStrength: 0.35
     - _DstBlend: 0
     - _GlossMapScale: 1
     - _Glossiness: 0
@@ -100,8 +100,9 @@ Material:
     - _QueueOffset: 0
     - _SampleGI: 0
     - _SmoothnessTextureChannel: 0
-    - _SmudgeStrength: 0.002
+    - _SmudgeStrength: 0.005
     - _SpecularHighlights: 1
+    - _Speed: 2.5
     - _SrcBlend: 1
     - _Strength: 0.005
     - _Surface: 0
@@ -112,4 +113,4 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
-    - _Tiling: {r: 25, g: 25, b: 0, a: 0}
+    - _Tiling: {r: 50, g: 50, b: 0, a: 0}
